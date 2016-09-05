@@ -1,3 +1,7 @@
 .bordered{
 	@include border();
 }
+
+&.title{
+	font-size: $font-size-h2;
+}
