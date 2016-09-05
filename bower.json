@@ -1,0 +1,22 @@
+{
+  "name": "joni-skillshare",
+  "description": "Skillshare Simple Template",
+  "main": "index.html",
+  "authors": [
+    "Paola Atencia"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4.0",
+    "font-awesome": "^4.6.3"
+  }
+}
